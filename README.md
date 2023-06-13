@@ -1,9 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on web development projects, exploring different technologies and frameworks to build responsive and user-friendly websites.<br><br>👯 I’m looking to collaborate on exciting web development projects, where I can contribute my skills and collaborate with other developers to create innovative solutions.<br><br>🤝 I’m looking for help with advanced front-end development techniques, such as optimizing website performance, mastering new JavaScript frameworks, or improving UI/UX design skills.<br><br>🌱 I’m currently learning about server-side programming, specifically diving into back-end development using technologies like Node.js and Express.js. Additionally, I'm also exploring cloud platforms like AWS to enhance scalability and deployment strategies.<br><br>💬 Ask me about web development best practices, HTML5, CSS3, JavaScript, responsive design, or any questions related to building websites and web applications.<br><br>⚡ Fun fact: When I'm not coding, you can find me exploring the outdoors, hiking, or passing time with nature. I believe that nature provides the perfect balance to my digital world, fueling my creativity and refreshing my mind.
 
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 ## 🌐 Socials:
